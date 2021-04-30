@@ -1,0 +1,29 @@
+.Accordion {
+  border-radius: 10px;
+}
+.AccordionItem {
+  background: #ffffff;
+}
+
+.AccordionItemHeading {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.AccordionItemButton {
+  background: #fff;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.AccordionItemPanel {
+  background: #fff;
+  padding: 5px 20px;
+  padding-bottom: 20px;
+}
+
+.AccordionItemPanel p {
+  margin: 0px;
+  line-height: 160%;
+  color: #9da3b4;
+}
